@@ -1,4 +1,4 @@
-##🕹️ Platformer do Garoto vs OctoHub SPACE TUTORS
+# 🕹️ Platformer do Garoto vs OctoHub SPACE TUTORS
 
 Um jogo de plataforma simples feito em Python + PgZero, onde você controla um garoto em sua jornada para derrotar um inimigo inesperado: o OctoHub, uma criatura inspirada no mascote do GitHub.
 
